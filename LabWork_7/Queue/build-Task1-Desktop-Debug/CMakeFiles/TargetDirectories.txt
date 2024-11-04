@@ -1,0 +1,4 @@
+/home/andrey/labs/Lab7/Queue/build-Task1-Desktop-Debug/CMakeFiles/Task1.dir
+/home/andrey/labs/Lab7/Queue/build-Task1-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/Lab7/Queue/build-Task1-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/Lab7/Queue/build-Task1-Desktop-Debug/CMakeFiles/Task1_autogen.dir

@@ -1,0 +1,4 @@
+/home/andrey/labs/Lab5/Task1/build-KeyBoard-Desktop-Debug/CMakeFiles/KeyBoard.dir
+/home/andrey/labs/Lab5/Task1/build-KeyBoard-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/Lab5/Task1/build-KeyBoard-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/Lab5/Task1/build-KeyBoard-Desktop-Debug/CMakeFiles/KeyBoard_autogen.dir

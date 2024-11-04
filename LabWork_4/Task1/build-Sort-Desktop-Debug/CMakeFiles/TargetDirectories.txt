@@ -1,0 +1,4 @@
+/home/andrey/labs/Lab4/Task1/build-Sort-Desktop-Debug/CMakeFiles/Sort.dir
+/home/andrey/labs/Lab4/Task1/build-Sort-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/Lab4/Task1/build-Sort-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/Lab4/Task1/build-Sort-Desktop-Debug/CMakeFiles/Sort_autogen.dir

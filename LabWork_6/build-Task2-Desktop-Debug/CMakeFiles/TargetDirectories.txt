@@ -1,0 +1,4 @@
+/home/andrey/labs/lab6/build-Task2-Desktop-Debug/CMakeFiles/Task2.dir
+/home/andrey/labs/lab6/build-Task2-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/lab6/build-Task2-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/lab6/build-Task2-Desktop-Debug/CMakeFiles/Task2_autogen.dir

@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3d7800b37f9e4c2b0711.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "IntToBin",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "IntToBin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IntToBin-Debug-16148734545fcdaf8445.json",
+					"name" : "IntToBin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IntToBin_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IntToBin_autogen-Debug-1fff71b8c66005699f7b.json",
+					"name" : "IntToBin_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/andrey/Labs/Lab3/Task1/build-IntToBin-Desktop-Debug",
+		"source" : "/home/andrey/Labs/Lab3/Task1/IntToBin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

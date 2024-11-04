@@ -1,0 +1,4 @@
+/home/andrey/labs/LabWork_8/Task_1/build-BinaryTree-Desktop-Debug/CMakeFiles/BinaryTree.dir
+/home/andrey/labs/LabWork_8/Task_1/build-BinaryTree-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/LabWork_8/Task_1/build-BinaryTree-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/LabWork_8/Task_1/build-BinaryTree-Desktop-Debug/CMakeFiles/BinaryTree_autogen.dir

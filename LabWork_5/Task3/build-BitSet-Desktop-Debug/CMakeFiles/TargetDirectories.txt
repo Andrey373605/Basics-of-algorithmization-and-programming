@@ -1,0 +1,4 @@
+/home/andrey/labs/Lab5/Task3/build-BitSet-Desktop-Debug/CMakeFiles/BitSet.dir
+/home/andrey/labs/Lab5/Task3/build-BitSet-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/Lab5/Task3/build-BitSet-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/Lab5/Task3/build-BitSet-Desktop-Debug/CMakeFiles/BitSet_autogen.dir

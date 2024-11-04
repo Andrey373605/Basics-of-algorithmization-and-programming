@@ -1,0 +1,4 @@
+/home/andrey/labs/Lab4/Task4/build-MyVector-Desktop-Debug/CMakeFiles/MyVector.dir
+/home/andrey/labs/Lab4/Task4/build-MyVector-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/Lab4/Task4/build-MyVector-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/Lab4/Task4/build-MyVector-Desktop-Debug/CMakeFiles/MyVector_autogen.dir

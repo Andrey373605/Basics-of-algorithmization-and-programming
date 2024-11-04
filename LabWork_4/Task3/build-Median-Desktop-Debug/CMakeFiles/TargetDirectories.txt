@@ -1,0 +1,4 @@
+/home/andrey/labs/Lab4/Task3/build-Median-Desktop-Debug/CMakeFiles/Median.dir
+/home/andrey/labs/Lab4/Task3/build-Median-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/Lab4/Task3/build-Median-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/Lab4/Task3/build-Median-Desktop-Debug/CMakeFiles/Median_autogen.dir

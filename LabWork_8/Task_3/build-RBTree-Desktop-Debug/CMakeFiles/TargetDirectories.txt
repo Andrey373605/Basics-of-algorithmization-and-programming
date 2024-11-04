@@ -1,0 +1,4 @@
+/home/andrey/labs/LabWork_8/Task_3/build-RBTree-Desktop-Debug/CMakeFiles/RBTree.dir
+/home/andrey/labs/LabWork_8/Task_3/build-RBTree-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/LabWork_8/Task_3/build-RBTree-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/LabWork_8/Task_3/build-RBTree-Desktop-Debug/CMakeFiles/RBTree_autogen.dir

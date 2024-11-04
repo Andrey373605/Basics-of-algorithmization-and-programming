@@ -1,0 +1,8 @@
+/home/andrey/Labs/Lab4/Task1/build-Sorts-Desktop-Debug/CMakeFiles/Sorts.dir
+/home/andrey/Labs/Lab4/Task1/build-Sorts-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/Labs/Lab4/Task1/build-Sorts-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/Labs/Lab4/Task1/build-Sorts-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/andrey/Labs/Lab4/Task1/build-Sorts-Desktop-Debug/CMakeFiles/install.dir
+/home/andrey/Labs/Lab4/Task1/build-Sorts-Desktop-Debug/CMakeFiles/install/local.dir
+/home/andrey/Labs/Lab4/Task1/build-Sorts-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/andrey/Labs/Lab4/Task1/build-Sorts-Desktop-Debug/CMakeFiles/Sorts_autogen.dir

@@ -1,0 +1,3 @@
+/home/andrey/Labs/Lab1/MyTask2/build-Paint-Desktop-Release/CMakeFiles/CMakeScratch/TryCompile-OeW0f3/CMakeFiles/cmTC_91462.dir
+/home/andrey/Labs/Lab1/MyTask2/build-Paint-Desktop-Release/CMakeFiles/CMakeScratch/TryCompile-OeW0f3/CMakeFiles/edit_cache.dir
+/home/andrey/Labs/Lab1/MyTask2/build-Paint-Desktop-Release/CMakeFiles/CMakeScratch/TryCompile-OeW0f3/CMakeFiles/rebuild_cache.dir

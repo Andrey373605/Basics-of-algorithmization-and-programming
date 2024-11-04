@@ -1,0 +1,4 @@
+/home/andrey/labs/LabWork_8/Task_3/build-BRTree-Desktop-Debug/CMakeFiles/BRTree.dir
+/home/andrey/labs/LabWork_8/Task_3/build-BRTree-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/LabWork_8/Task_3/build-BRTree-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/LabWork_8/Task_3/build-BRTree-Desktop-Debug/CMakeFiles/BRTree_autogen.dir

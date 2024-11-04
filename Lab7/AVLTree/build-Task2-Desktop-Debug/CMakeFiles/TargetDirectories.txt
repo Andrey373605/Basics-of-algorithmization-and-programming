@@ -1,0 +1,4 @@
+/home/andrey/labs/Lab7/AVLTree/build-Task2-Desktop-Debug/CMakeFiles/Task2.dir
+/home/andrey/labs/Lab7/AVLTree/build-Task2-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/Lab7/AVLTree/build-Task2-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/Lab7/AVLTree/build-Task2-Desktop-Debug/CMakeFiles/Task2_autogen.dir

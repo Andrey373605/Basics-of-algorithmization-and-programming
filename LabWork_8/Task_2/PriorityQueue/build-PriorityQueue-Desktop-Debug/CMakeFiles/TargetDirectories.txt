@@ -1,0 +1,4 @@
+/home/andrey/labs/LabWork_8/Task_2/PriorityQueue/build-PriorityQueue-Desktop-Debug/CMakeFiles/PriorityQueue.dir
+/home/andrey/labs/LabWork_8/Task_2/PriorityQueue/build-PriorityQueue-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andrey/labs/LabWork_8/Task_2/PriorityQueue/build-PriorityQueue-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/labs/LabWork_8/Task_2/PriorityQueue/build-PriorityQueue-Desktop-Debug/CMakeFiles/PriorityQueue_autogen.dir
